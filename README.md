@@ -1,5 +1,5 @@
 ###   🙏नमस्ते!  🙏Namaste!  
-##    My name is Govind Bisen
+![govind](https://github.com/govindbisen/govindbisen/blob/main/download.png)
 ```diff
 
 - console.log("I am an aspiring web developer);
@@ -7,8 +7,7 @@
 ```
 
 # 🧿 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindbisen&layout=compact&langs_count=8)](https://github.com/govindbisen/github-readme-stats)
- 
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=govindbisen&show_icons=true&theme=dracula" 
 /> 
