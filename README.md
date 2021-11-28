@@ -6,8 +6,6 @@
 + console.log("I am a web Developer");
 ```
 
-
-![Govind Bisen](https://github.com/govindbisen/govindbisen/blob/main/31060771-removebg-preview.png)
 # 🧿 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=govindbisen&show_icons=true&theme=dracula" 
