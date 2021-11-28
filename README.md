@@ -9,10 +9,7 @@
 # 🧿 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=govindbisen&show_icons=true&theme=dracula" 
-/>
-[![Govind-stats](https://github-readme-stats.vercel.app/api/wakatime?username=govindbisen)](https://github.com/govindbisen/github-readme-stats)
-
-
+/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindbisen&layout=compact&langs_count=8)](https://github.com/govindbisen/github-readme-stats)
 
     
