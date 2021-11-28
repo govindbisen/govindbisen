@@ -1,4 +1,4 @@
-###  नमस्ते ![image](https://user-images.githubusercontent.com/31060771/143765034-13d2d201-2ccb-4886-befc-b303b4a56229.png)
+###  नमस्ते ![image width = "50px"](https://user-images.githubusercontent.com/31060771/143765034-13d2d201-2ccb-4886-befc-b303b4a56229.png)
  Namaste  👋
 
 <!--
