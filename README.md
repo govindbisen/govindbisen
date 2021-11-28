@@ -2,7 +2,10 @@
 ##    My name is Govind Bisen
 ![Govind Bisen](https://github.com/govindbisen/govindbisen/blob/main/31060771-removebg-preview.png)
 # my stats - 
-![Govind Stats](https://github-readme-stats.vercel.app/api?username=govindbisen&theme=dark&show_icons=true)
+![Govind Stats](https://github-readme-stats.vercel.app/api?username=govindbisen&theme=dracula&show_icons=true)
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=govindbisen&show_icons=true&theme=tokyonight" 
+/>
 
     
 
