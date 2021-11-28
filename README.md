@@ -1,6 +1,6 @@
 ###   🙏नमस्ते!  🙏Namaste!  
 ##    My name is Govind Bisen
-![Govind Bisen](https://pbs.twimg.com/profile_images/1460042804944457733/gcNYPElZ_400x400.jpg)
+![Govind Bisen](https://github.com/govindbisen/govindbisen/blob/main/gcNYPElZ_400x400-removebg-preview.png)
 
     
 
