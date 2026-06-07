@@ -78,18 +78,6 @@
 
 ---
 
-## 🚀 Currently Learning
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Large Language Models](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7B61FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector%20Database-00C853?style=for-the-badge)
-
-
-
-
 <!--
 **govindbisen/govindbisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
